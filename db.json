@@ -1,0 +1,120 @@
+{
+    "products": [
+      {
+        "id": "1",
+        "name": "Day Old Chick",
+        "category": "Chicks",
+        "price": 20,
+        "description": "3 days old sasu F1 .",
+        "image": "./phase-2-project/images/ndogo.jpg"
+      },
+      {
+        "id": "2",
+        "name": "Grower Feed",
+        "category": "Feed",
+        "price": 18.5,
+        "description": "Balanced grower feed for pullets and broilers aged 4-8 weeks.",
+        "image": "./phase-2-project/images/growers.jpeg"
+      },
+      {
+        "id": "3",
+        "name": "Layer Feed",
+        "category": "Feed",
+        "price": 15,
+        "description": "Specially formulated feed for laying hens to maximize egg production.",
+        "image": "./phase-2-project/images/layers.jpeg"
+      },
+      {
+        "id": "4",
+        "name": "Vitamin Supplements",
+        "category": "Supplements",
+        "price": 10,
+        "description": "Multivitamin supplements to boost immunity and overall health in poultry.",
+        "image": "./phase-2-project/images/vitamin.webp"
+      },
+      {
+        "id": "5",
+        "name": "Calcium Booster",
+        "category": "Supplements",
+        "price": 8,
+        "description": "Calcium supplement to enhance eggshell strength in laying hens.",
+        "image": "./phase-2-project/images/calcium.jpeg"
+      },
+      {
+        "id": "6",
+        "name": "Water Drinker",
+        "category": "Equipment",
+        "price": 12,
+        "description": "Water drinker with 5-liter capacity, ideal for poultry of all ages.",
+        "image": "./phase-2-project/images/drinker.jpg"
+      },
+      {
+        "id": "7",
+        "name": "Brooder Lamp",
+        "category": "Equipment",
+        "price": 20,
+        "description": "Heat lamp for keeping chicks warm during their early stages.",
+        "image": "./phase-2-project/images/lamp.jpg"
+      },
+      {
+        "id": "8",
+        "name": "Newcastle Disease Vaccine",
+        "category": "Medicines",
+        "price": 5,
+        "description": "Vaccine to prevent Newcastle disease in poultry. Suitable for all ages.",
+        "image": "./phase-2-project/images/newcastleVaccine.jpeg"
+      },
+      {
+        "id": "9",
+        "name": "Deworming Medicine",
+        "category": "Medicines",
+        "price": 7,
+        "description": "Effective dewormer for poultry to eliminate internal parasites.",
+        "image": "./phase-2-project/images/dewormer.jpg"
+      },
+      {
+        "id": "10",
+        "name": "Antibiotic Powder",
+        "category": "Medicines",
+        "price": 6.5,
+        "description": "Broad-spectrum antibiotic powder for the treatment of bacterial infections.",
+        "image": "./phase-2-project/images/alyserly.jpeg"
+      }
+    ],
+    "subscribers": [
+      {
+        "id": "ecd5",
+        "email": "joelgaye17@gmail.com"
+      },
+      {
+        "id": "15e2",
+        "email": "joelgaye17@gmail.com"
+      }
+    ],
+    "contact": [
+      {
+        "id": "1dda",
+        "name": "Joel Ouma",
+        "email": "joelgaye17@gmail.com",
+        "message": "hhdh"
+      },
+      {
+        "id": "4430",
+        "name": "Joel Ouma",
+        "email": "joelgaye17@gmail.com",
+        "message": "gff"
+      },
+      {
+        "id": "ebba",
+        "name": "Joel Gaye",
+        "email": "joelgaye17@gmail.com",
+        "message": "irene"
+      },
+      {
+        "id": "6ed3",
+        "name": "Joel neko",
+        "email": "joelgaye17@gmail.com",
+        "message": "2356"
+      }
+    ]
+  }
